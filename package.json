@@ -1,0 +1,31 @@
+{
+  "name": "copro-server",
+  "version": "1.0.0",
+  "description": "Server for copro-client app.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiannanas/copro-server.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "copro",
+    "server"
+  ],
+  "author": "Annaïk Anyouzo'o <annaik.anyouzo.o@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Kiannanas/copro-server/issues"
+  },
+  "homepage": "https://github.com/Kiannanas/copro-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
